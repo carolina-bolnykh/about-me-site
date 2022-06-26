@@ -1,0 +1,11 @@
+/**Tag Selectors**/
+  body {
+    background-color: #FDF6F0;
+  }
+
+  hr {
+    border-style: dotted none none;
+    width: 80%;
+    border-width:5px;
+    border-color: #FFDAC7;
+  }
